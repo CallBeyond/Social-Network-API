@@ -1,7 +1,7 @@
 
 # Social Network API!
 
-Our assignment for Week 18 is to create a social network API with the usual CRUD!
+Our assignment for Week 18 is to create a social network API from scratch, very exciting haha...
 Follow the video below to see the endpoints in action.
 ## Table of Contents
 
